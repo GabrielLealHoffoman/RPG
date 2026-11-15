@@ -1,2 +1,17 @@
-# RPG
-escolha de herói (Guerreiro, Mago, Arqueiro), mapa em grade, inimigos, batalha por turnos, inventário com itens, loja, sistema de nível e experiência, salvar e carregar o jogo, e um chefe final.
+# RPG em Java
+
+Jogo de RPG de console com batalha por turnos, feito em Java.
+
+## Objetivo do projeto
+
+Este projeto foi feito para praticar orientação a objetos e estruturas de dados.
+O jogador escolhe um herói, anda por um mapa, enfrenta inimigos, compra itens
+na loja e tenta derrotar o chefe final.
+
+## Status
+
+Em desenvolvimento.
+
+## Autor
+
+Feito por GabrielLealHoffoman como projeto pessoal
